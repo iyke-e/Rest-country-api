@@ -309,7 +309,7 @@ main {
 .aboutCountry {
     display: flex;
     flex-direction: column;
-    gap: 3rem;
+    gap: 1.5rem;
     flex-grow: 1;
 }
 
@@ -417,6 +417,7 @@ main {
     .aboutCountryWrapper {
         flex-direction: row;
         margin-block-start: 4rem;
+        align-items: center;
     }
 
     .country-f-img {
